@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape xmlns:android="http://schemas.android.com/apk/res/android"
+            android:shape="rectangle">
+            <solid android:color="@color/color_bg_launch_screen" />
+            <size
+                android:width="360dp"
+                android:height="639dp" />
+        </shape>
+    </item>
+</layer-list>
